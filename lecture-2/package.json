@@ -1,0 +1,12 @@
+{
+  "name": "lecture-2",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "status": "oao status",
+    "bootstrap": "oao bootstrap",
+    "prepareRelease": "oao prepublish",
+    "release": "oao publish"
+  },
+  "license": "MIT"
+}
